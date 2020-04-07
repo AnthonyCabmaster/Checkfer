@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lawyerly</string>
+
+    <string name="tab_featured">Featured (%1$s)</string>
+    <string name="tab_all">All (%1$s)</string>
+    <string name="tab_favs">Favs (%1$s)</string>
+
+    <string name="lawyers_name">Lawyer\'s Name</string>
+
+    <string name="lawyers_name_split">Name\nSurname</string>
+    <string name="speciality">Speciality</string>
+
+    <string name="photo_of_lawyer">Photo of Lawyer</string>
+    <string name="verified_background">Verified Background</string>
+    <string name="_1st_free_consultation_available">1st FREE CONSULTATION Available</string>
+    <string name="another_info">Another Info</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_donec_eros_tortor_viverra_vel_cursus_sed_auctor_ac_risus_fusce_vel_luctus_urna_ut_sit_amet_enim_mollis_diam_placerat_pretium_vel_ac_nunc_pellentesque_a_dapibus_dui_sed_lorem_quam">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eros tortor, viverra vel cursus sed, auctor ac risus. Fusce vel luctus urna. Ut sit amet enim mollis diam placerat pretium vel ac nunc. Pellentesque a dapibus dui. Sed lorem quam.</string>
+    <string name="schedule_lawyer">SCHEDULE LAWYER</string>
+    <string name="price">£90.90</string>
+    <string name="rating">4.8</string>
+    <string name="h">/h</string>
+</resources>

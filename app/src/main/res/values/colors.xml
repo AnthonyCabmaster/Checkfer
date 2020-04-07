@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/white</color>
+    <color name="colorPrimaryDark">@android:color/black</color>
+    <color name="colorAccent">@color/gradient_start</color>
+
+    <color name="background_grey">#f7f8f8</color>
+
+    <color name="gradient_start">#38ED89</color>
+    <color name="gradient_end">#DEFD73</color>
+
+
+</resources>
